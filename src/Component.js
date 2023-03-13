@@ -7,5 +7,6 @@ class Component {
    }
 }
 
-module.exports = Component;
+//module.exports = Component;
+export default Component;
 
